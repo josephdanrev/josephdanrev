@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @josephdanrev
 - 👀 I’m interested in constantly learning new things especially on the technical side.
-- 🌱 I’m currently learning Github...lol
 - 📫 How to reach me castrojd87@gmail.com
 
 <!---
